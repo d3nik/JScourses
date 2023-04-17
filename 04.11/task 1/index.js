@@ -38,5 +38,5 @@ let center = new CssClass("center", StyleArray);
 console.log(center);
 
 center.styleAdd();
-center.styleDel();
+// center.styleDel();
 center.getCSS();
